@@ -5,6 +5,8 @@ public class Main {
        String name= "Gonzalo";
     
     public void editing();
+        
+        int 10;
     }
 
 }
